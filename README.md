@@ -5,8 +5,7 @@ These are my custom dictionaries/scripts that I use.
 
 This is mainly to be used for my own personal backup but anyone else is free to use it too.
 
-The user.json dict is mainly spellings that I think are correct but somehow don't show up in the main dictionaries/typey type ones. 
-
-My goal with this isn't to create briefs, but to be able to 'work out' anything I need.
+The definitions in user.json are the words I've come across where the original Plover brief didn't make sense to me or I just couldn't work it out. 
 
 plov.ahk is a simple script for AutoHotKey for switching Plover input on/off with ctrl+/
+F2/F3 is back/forward (ctrl left or right), and F4 is backspace. 
