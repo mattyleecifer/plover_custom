@@ -9,3 +9,5 @@ The definitions in user.json are the words I've come across where the original P
 
 plov.ahk is a simple script for AutoHotKey for switching Plover input on/off with ctrl+/ or F1
 F2/F3 is back/forward (ctrl left or right), and F4 is backspace. 
+
+Added a dictionary that's just the normal dictionary but with all the briefs with spaces removed.
