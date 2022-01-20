@@ -1,6 +1,8 @@
 # plover_custom
 My plover customizations
 
+Update: 20220120 combined all dicts so only using custom.json from now on 
+
 These are my custom dictionaries/scripts that I use.
 
 This is mainly to be used for my own personal backup but anyone else is free to use it too.
